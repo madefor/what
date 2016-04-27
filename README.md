@@ -1,6 +1,6 @@
 # [WIP] For what madefor is made for?
 ## what for?
-madefor is for offering __civic-tech-friendly__ and __resilient__ web service tools and technologies to be used __in the governments__ to offer public web service. 
+madefor is for offering tools and ideas __for governments__ to provide __civic-tech-friendly__ and __resilient__ public web service. 
 
 madefor is a participatory activity to propose how governments can use civic tech to offer resilient services to the Internet, especially civic tech developers.
 
