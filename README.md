@@ -1,4 +1,4 @@
-# [WIP] For what madefor is made for? - madefor manifesto -
+# [WIP] For what madefor is made for?
 ## what for?
 - madefor is a participatory activity to propose how governments can use civic tech to offer resilient services to the Internet, especially civic tech developers.
 
