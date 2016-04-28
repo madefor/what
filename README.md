@@ -1,4 +1,4 @@
-# [WIP] For what madefor is made for?
+# [WIP] what is madefor made for?
 ## what for?
 madefor is for offering tools and ideas __for governments__ to provide __civic-tech-friendly__ and __resilient__ public web service. 
 
